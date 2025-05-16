@@ -1,4 +1,16 @@
-## Hi there 👋
+## About me ✨
+
+Hi, I'm Thomas, a student and future engineer 👨‍🎓 
+I'm studying at the UTC in France 🗺
+
+| Languages I'm currently learning 🤔|
+|---------------|
+|Python|
+|HTML|
+|PHP|
+|CSS|
+|MySQL|
+
 
 <!--
 **Thomas-DSMA/Thomas-DSMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
