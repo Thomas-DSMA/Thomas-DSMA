@@ -1,8 +1,5 @@
 ## About me ✨
 
-Hi, I'm Thomas, a student and future engineer 👨‍🎓 
-I'm studying at the UTC in France 🗺
-
 | Languages I'm currently learning 🤔|
 |---------------|
 |Python|
